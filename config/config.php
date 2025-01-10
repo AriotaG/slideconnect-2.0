@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'Aspide');
-define('DB_PASS', 'Pa151y$9a');
-define('DB_NAME', 'webrtc_db');
-define('DOMAIN', 'https://demo.increative.it');
+define('DB_USER', 'user');
+define('DB_PASS', 'password');
+define('DB_NAME', 'db_name');
+define('DOMAIN', 'https://youdomain.com');
 ?>
