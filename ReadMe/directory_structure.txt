@@ -1,34 +1,25 @@
-├── adminlte
-│   ├── .github
+SlideConnect 2.0
+├── adminlte (make the free download at the link: https://adminlte.io/)
 │   ├── build
 │   ├── dist
 │   ├── docs
 │   ├── pages
 │   ├── plugins
 │   └── vendor
-├── panel
-│   ├── admin
-│   ├── backend
-│   │   ├── doors
-│   │   │   └── IDporta
-│   │   │       ├── images
-│   │   │       └── videospot
-│   │   ├── users
-│   │   │   └── IDuser
-│   │   │       ├── images
-│   │   │       └── profile
-│   ├── client
-│   ├── config
-│   ├── frontend
-│   │   ├── css
-│   │   ├── html
-│   │   └── js
-│   ├── includes
-│   ├── superadmin
-│   └── uploads
-│       ├── doors
-│       │   └── IDporta
-│       │       ├── ad_video
-│       │       └── inactivity_video
-│       └── profile_images
-└── signaling
+├───panel
+│   ├───config
+│   ├───frontend
+│   │   ├───css
+│   │   └───js
+│   ├───includes
+│   └───uploads
+│       ├───doors
+│       │   ├───2
+│       │   │   ├───ad_video
+│       │   │   └───inactivity_video
+│       │   └───3
+│       │       ├───ad_video
+│       │       └───inactivity_video
+│       └───profile_images
+├───ReadMe
+└───signaling
