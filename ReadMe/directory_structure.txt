@@ -1,0 +1,34 @@
+├── adminlte
+│   ├── .github
+│   ├── build
+│   ├── dist
+│   ├── docs
+│   ├── pages
+│   ├── plugins
+│   └── vendor
+├── panel
+│   ├── admin
+│   ├── backend
+│   │   ├── doors
+│   │   │   └── IDporta
+│   │   │       ├── images
+│   │   │       └── videospot
+│   │   ├── users
+│   │   │   └── IDuser
+│   │   │       ├── images
+│   │   │       └── profile
+│   ├── client
+│   ├── config
+│   ├── frontend
+│   │   ├── css
+│   │   ├── html
+│   │   └── js
+│   ├── includes
+│   ├── superadmin
+│   └── uploads
+│       ├── doors
+│       │   └── IDporta
+│       │       ├── ad_video
+│       │       └── inactivity_video
+│       └── profile_images
+└── signaling
