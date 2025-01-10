@@ -7,8 +7,6 @@ Follow the following steps for proper installation:
 2) Open the ReadMe folder, you will find the database and project schema.
 3) The config/config.php file must be configured with your DB parameters.
 4) also in the config/confg.php file you will need to enter the domain name or path you are using.
+5) Username and Password in ReadMe/credential.txt
 
 As of the current status of 10/01/2025, the WebRTC link has not been connected yet. it is only 24 hours since we started development. :)
-
-
-Translated with DeepL.com (free version)
