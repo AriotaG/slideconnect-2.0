@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Join Room</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/webrtc.js"></script>
+</head>
+<body>
+    <h1>Join Room</h1>
+    <video id="localVideo" autoplay muted></video>
+    <video id="remoteVideo" autoplay></video>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const room = urlParams.get('room');
+        startCall(room);
+    </script>
+</body>
+</html>
