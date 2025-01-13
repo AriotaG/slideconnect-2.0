@@ -1,4 +1,4 @@
-const socket = io.connect('https://demo.increative.it:8080');
+const socket = io.connect('https://yourdomain.com:8080');
 let localStream;
 let peerConnection;
 const config = {
